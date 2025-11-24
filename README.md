@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rani367&show_icons=true&locale=en&layout=compact" alt="rani367" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani367&show_icons=true&locale=en" alt="rani367" /></p>
+
+![snake gif](https://raw.githubusercontent.com/rani367/rani367/output/github-snake.svg)
