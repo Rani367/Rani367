@@ -2,7 +2,7 @@
 <h3 align="center">High school student learning software engineering</h3>
 
 
-- 📰 Built a newspaper site for my school - [Hativon](https://hativon.vercel.app/) - they're using it now and I got volunteering hours for it
+- 📰 Built a newspaper site for my school - [Hativon](https://hativon.vercel.app/) - they're using it now and I saved them money.
 
 - 💼 My portfolio with an AI chatbot - [rani-malach.vercel.app](https://rani-malach.vercel.app/)
 
