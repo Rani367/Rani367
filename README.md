@@ -6,6 +6,8 @@
 
 - 💼 My portfolio with an AI chatbot - [rani-malach.vercel.app](https://rani-malach.vercel.app/)
 
+- 🧑‍💻 Contributed to an open source(magic-portfolio)
+
 - 🌱 Currently learning computer science at school
 
 - 📫 Reach me at **rani2011367@gmail.com**
