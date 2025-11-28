@@ -4,7 +4,7 @@
 
 - 📰 Built a newspaper site for my school - [Hativon](https://hativon.vercel.app/) - they're using it now and I saved them money.
 
-- 💼 My portfolio with an AI chatbot - [rani-malach.vercel.app](https://rani-malach.vercel.app/)
+- 💼 My portfolio with an AI chatbot - [portfolio](https://rani-malach.vercel.app/)
 
 - 🧑‍💻 Contributed to an open source(Once UI's Magic Portfolio)
 
