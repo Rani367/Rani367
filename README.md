@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">14 y/o software engineer & open source contributor</h3>
 
-- 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed), the editor I use daily
+- 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
 
 - 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site, actively used & saved them money
 
