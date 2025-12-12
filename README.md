@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔧 **Open Source Contributor** — Merged PR in [Zed](https://github.com/zed-industries/zed)
-- 📰 **Built [Hativon](https://hativon.vercel.app/)** — My school's newspaper site, actively used & saved them money
-- 💼 **[Portfolio](https://rani-malach.vercel.app/)** — Check out my work
+- 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
+- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site, actively used & saved them money
+- 💼 **[Portfolio](https://rani-malach.vercel.app/)** - Check out my work
 - 🌱 Currently learning CS at school (and everywhere else)
 
 <br>
