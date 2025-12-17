@@ -11,7 +11,6 @@
 <br>
 
 ### My favorite tech stack is "rusty" 🦀
-
 ```
 frontend:        rust
 backend:         rust
@@ -20,12 +19,13 @@ everything else: rust
 
 <br>
 
-### Languages & Tools
+### Skills & Tools
 
 <p align="left">
   <a href="#"><img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="100" height="100"/></a>
