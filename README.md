@@ -8,17 +8,6 @@
 - 💼 **[Portfolio](https://rani-malach.vercel.app/)** - Check out my work
 - 🌱 Currently learning CS at school (and everywhere else)
 
-<br>
-
-### My favorite tech stack is "rusty" 🦀
-```
-frontend:        rust
-backend:         rust
-everything else: rust
-```
-
-<br>
-
 ### Skills & Tools
 
 <p align="left">
