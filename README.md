@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Rani 👋</h1>
 <p align="center">
-  <a href="https://rani-malach.vercel.app/">Portfolio</a> •
+  <a href="https://rani.is-a.dev">Portfolio</a> •
   <a href="https://www.canva.com/design/DAG3wRQVrnA/42e087h_bKh5WyiAPmhdTg/view?utm_content=DAG3wRQVrnA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h619b5d7470">Resume</a> •
   <a href="mailto:rani2011367@gmail.com">Email</a>
 </p>
