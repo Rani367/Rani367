@@ -7,7 +7,7 @@
 
 ---
 
-- ⌨️ **Built [ezVim](https://github.com/Rani367/ezVim)** - A terminal-based code editor written in Rust with LSP support, TypeScript plugins, and multi-cursor editing. I use it daily.
+- ⌨️ **Built [Crisp](https://github.com/crisp-editor/crisp)** - A terminal-based code editor written in Rust with LSP support, TypeScript plugins, and multi-cursor editing. I use it daily.
 - 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
 - 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site, actively used & saved them money
 - 🌱 Currently learning CS at school (and everywhere else)
