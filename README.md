@@ -7,9 +7,9 @@
 
 ---
 
-- ⚡ **FastAPI Developer** - Building fast, modern Python APIs
 - 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
-- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site, actively used & saved them money
+- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js, actively used & saved them money
+- 🛰️ **Satellite Programming** - Writing C for my school's satellite program
 - 💼 **Open to work** - Backend opportunities
 
 ### Tech Stack
@@ -17,6 +17,8 @@
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/></a>
