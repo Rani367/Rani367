@@ -7,6 +7,7 @@
 
 ---
 
+- 🎮 **Currently building [Pixel](https://github.com/Rani367/pixel)** - A beginner-friendly programming language for making 2D games
 - 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
 - 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used & saved them money
 - 🛰️ **Satellite Programming** - Writing C for my school's satellite program
