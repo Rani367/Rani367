@@ -14,12 +14,12 @@
 
 ### Tech Stack
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="python" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="c" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="100" height="100"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="100" height="100"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="c" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/></a>
 </p>
