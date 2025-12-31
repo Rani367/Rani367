@@ -14,5 +14,5 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,python,c,cs,nextjs,react,ts,js" alt="Tech Stack" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,python,c,cs,nextjs,react,ts,js" alt="Tech Stack" /></a>
 </p>
