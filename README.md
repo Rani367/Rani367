@@ -7,7 +7,6 @@
 
 ---
 
-- 🎮 **Currently building [Pixel](https://rani367.github.io/pixel/)** - A beginner-friendly programming language for making 2D games
 - 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
 - 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used & saved them money
 - 🛰️ **Satellite Programming** - Writing C for my school's satellite program
@@ -22,4 +21,11 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/></a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://github.com/Rani367/nvim"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="60" height="60"/></a>
 </p>
