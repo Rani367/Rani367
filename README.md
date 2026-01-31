@@ -25,7 +25,7 @@
 
 ### Tools
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="65" height="65"/></a>
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="68" height="68"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="60" height="60"/></a>
