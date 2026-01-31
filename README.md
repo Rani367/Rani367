@@ -8,7 +8,7 @@
 ---
 
 - 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
-- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used & saved them money
+- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used them money
 - 🛰️ **Satellite Programming** - Writing C for my school's satellite program
 
 ### Tech Stack
@@ -25,7 +25,7 @@
 
 ### Tools
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://skillicons.dev/icons?i=zed" alt="zed" width="60" height="60"/></a>
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://zed.dev/img/logo-small.png" alt="zed" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="60" height="60"/></a>
