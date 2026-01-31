@@ -25,7 +25,8 @@
 
 ### Tools
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="60" height="60"/></a>
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://skillicons.dev/icons?i=zed" alt="zed" width="60" height="60"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="60" height="60"/></a>
 </p>
