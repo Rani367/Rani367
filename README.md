@@ -7,7 +7,7 @@
 
 ---
 
-- 🔧 **Open Source Contributor** - Merged PR in [Zed](https://github.com/zed-industries/zed)
+- 🔧 **Open Source Contributor** - Merged PR and still contributing in [Zed](https://github.com/zed-industries/zed) and NextJs [PR](https://github.com/vercel/next.js/pull/88199)
 - 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used & saved them money
 - 🛰️ **Satellite Programming** - Writing C for my school's satellite program
 - 🎮 **currently working on a multiplayer web-based game** [work in progress](https://placeholder-name-henna.vercel.app/)
