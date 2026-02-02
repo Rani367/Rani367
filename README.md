@@ -1,33 +1,49 @@
-<h1 align="center">Hey, I'm Rani 👋</h1>
+<h1 align="center">Hey, I'm Rani</h1>
 <p align="center">
-  <a href="https://rani.is-a.dev">Portfolio</a>(work in progress) •
+  <b>High school student from Israel building cool stuff on the internet</b>
+</p>
+<p align="center">
+  <a href="https://rani.is-a.dev">Portfolio</a> •
   <a href="https://www.canva.com/design/DAG3wRQVrnA/42e087h_bKh5WyiAPmhdTg/view?utm_content=DAG3wRQVrnA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h619b5d7470">Resume</a> •
   <a href="mailto:rani2011367@gmail.com">Email</a>
 </p>
 
 ---
 
-- 🔧 **Open Source Contributor** - Merged PR and still contributing in [Zed](https://github.com/zed-industries/zed) and NextJs [PR](https://github.com/vercel/next.js/pull/88199)
-- 📰 **Built [Hativon](https://hativon.vercel.app/)** - My school's newspaper site built with Next.js and Typescript, actively used & saved them money
-- 🛰️ **Satellite Programming** - Writing C for my school's satellite program
-- 🎮 **currently working on a multiplayer web-based game** [work in progress](https://placeholder-name-henna.vercel.app/)
+### Open Source Contributions
+
+I contribute to tools I use daily:
+
+- **Zed Editor** - [Merged PR](https://github.com/zed-industries/zed/pull/43872) adding upsell banners for integrated extensions, plus [active PRs](https://github.com/zed-industries/zed/pulls?q=author%3ARani367) for type-to-filter and Ollama edit prediction
+- **Next.js** - [Merged PR](https://github.com/vercel/next.js/pull/88199) fixing TypeScript `noUncheckedSideEffectImports` for CSS imports
+
+### Featured Projects
+
+- **[Hativon](https://hativon.vercel.app/)** - My school's newspaper website. Built with Next.js and TypeScript, actively used by students and staff. Also saved them money by not paying for a website builder.
+
+### Currently Working On
+
+- **Satellite Programming** - Writing C for a space agency educational satellite program
+- **Browser MMO** - Building a multiplayer web-based RPG game
 
 ### Tech Stack
+
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="c" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,c,cs,rust" />
 </p>
 
 ### Tools
+
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="68" height="68"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="60" height="60"/></a>
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="50" height="50"/></a>
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rani367&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani367&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
