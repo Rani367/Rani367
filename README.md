@@ -39,11 +39,3 @@ I contribute to tools I use daily:
   <img src="https://skillicons.dev/icons?i=neovim,git,linux" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rani367&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani367&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
