@@ -35,7 +35,7 @@ I contribute to tools I use daily:
 ### Tools
 
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" height="45"/></a>
-  <img src="https://skillicons.dev/icons?i=neovim,git,linux&perline=4" height="45" />
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" height="60"/></a>
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux&perline=4" height="60" />
 </p>
 
