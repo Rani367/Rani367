@@ -29,13 +29,13 @@ I contribute to tools I use daily:
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,c,cs,rust" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,c,cs,rust" height="55" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="50" height="50"/></a>
-  <img src="https://skillicons.dev/icons?i=neovim,git,linux" />
+  <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" height="63"/></a>
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux" height="55" />
 </p>
 
