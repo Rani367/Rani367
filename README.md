@@ -33,10 +33,11 @@ I contribute to tools I use daily:
 </p>
 
 ### Tools
-
 <p align="left">
   <a href="https://github.com/Rani367/dotfiles"><img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="zed" width="75" height="75"/></a>
-  <a href="https://helix-editor.com"><img src="https://raw.githubusercontent.com/helix-editor/helix/master/contrib/helix.png" alt="helix" width="75" height="75"/></a>
+  <a href="https://github.com/Rani367/helix"><img src="https://raw.githubusercontent.com/helix-editor/helix/master/contrib/helix.png" alt="helix (custom fork)" width="75" height="75"/></a>
   <img src="https://skillicons.dev/icons?i=vim,git,linux&perline=3" width="225" />
 </p>
+
+<p align="left"><sub>🔧 daily driving a <a href="https://github.com/Rani367/helix">custom Helix fork</a> with personal patches</sub></p>
 
