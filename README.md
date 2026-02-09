@@ -19,6 +19,7 @@ I contribute to tools I use daily:
 
 ### Featured Projects
 
+- **[Silicon](https://github.com/Rani367/Silicon)** - My personal fork of the Helix text editor, rebranded and customized. Performance optimizations, auto-installing language servers, and a one-liner install script.
 - **[Hativon](https://hativon.vercel.app/)** - My school's newspaper website. Built with Next.js and TypeScript, actively used by students and staff. Also saved them money by not paying for a website builder.
 
 ### Currently Working On
@@ -34,6 +35,6 @@ I contribute to tools I use daily:
 
 ### Tools
 <p align="left">
-  <a href="https://github.com/Rani367/helix"><img src="https://raw.githubusercontent.com/helix-editor/helix/master/contrib/helix.png" alt="helix (custom fork)" width="75" height="75"/></a>
+  <a href="https://github.com/Rani367/Silicon"><img src="https://raw.githubusercontent.com/helix-editor/helix/master/contrib/helix.png" alt="Silicon (custom Helix fork)" width="75" height="75"/></a>
   <img src="https://skillicons.dev/icons?i=vim,git,linux&perline=3" width="225" />
 </p>
