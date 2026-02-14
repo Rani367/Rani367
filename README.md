@@ -38,3 +38,4 @@ I contribute to tools I use daily:
   <a href="https://github.com/Rani367/Silicon"><img src="https://raw.githubusercontent.com/helix-editor/helix/master/contrib/helix.png" alt="Silicon (custom Helix fork)" width="75" height="75"/></a>
   <img src="https://skillicons.dev/icons?i=vim,git,linux&perline=3" width="225" />
 </p>
+<sub>I use arch btw</sub>
