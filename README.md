@@ -14,13 +14,13 @@
 
 I contribute to tools I use daily:
 
-- **Zed Editor** - [Merged PR](https://github.com/zed-industries/zed/pull/43872) adding upsell banners for integrated extensions, plus [active PRs](https://github.com/zed-industries/zed/pulls?q=author%3ARani367) for type-to-filter and Ollama edit prediction
+- **Zed Editor** - [Merged PR](https://github.com/zed-industries/zed/pull/43872) adding upsell banners for integrated extensions
 - **Next.js** - [Merged PR](https://github.com/vercel/next.js/pull/88199) fixing TypeScript `noUncheckedSideEffectImports` for CSS imports
 
 ### Featured Projects
 
-- **[Silicon](https://github.com/Rani367/Silicon)** - A fork of the Helix text editor, rebranded and customized. Performance optimizations, auto-installing language servers, and lua based configuration.
 - **[Hativon](https://hativon.vercel.app/)** - My school's newspaper website. Built with Next.js and TypeScript, actively used by students and staff. Also saved them money by not paying for a website builder.
+- more to come...
 
 ### Currently Working On
 
