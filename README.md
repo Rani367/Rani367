@@ -21,7 +21,7 @@ I contribute to tools I use daily:
 | **shadcn/ui** | [Add CSS animations for calendar component](https://github.com/shadcn-ui/ui/pull/8907) | Open |
 | **Magic Portfolio** | [Upgrade to Next.js 16 and React 19.2](https://github.com/once-ui-system/magic-portfolio/pull/146) | Merged |
 
-### Featured Projects
+### Projects
 
 - **[affected](https://github.com/Rani367/affected)** -- Run only the tests that matter. A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports Cargo, npm, Yarn, Go, Python, Maven, and Gradle. `Rust`
 - **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website, used by students and staff. `Next.js` `TypeScript` `Tailwind` `Postgres`
