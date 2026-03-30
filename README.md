@@ -23,17 +23,7 @@ I contribute to tools I use daily:
 
 ### Featured Projects
 
-- **[affected](https://github.com/Rani367/affected)** -- Run only the tests that matter. A standalone Rust CLI that detects which packages in your monorepo are affected by git changes. Supports Cargo, npm, Yarn, Go, Python, Maven, and Gradle.
-- **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website. Built with Next.js and TypeScript, used by students and staff.
-- **[pAPI](https://github.com/Rani367/pAPI)** -- Free Perplexity AI API + MCP server to replace agents' search tools with Perplexity.
-- **[Zed Config](https://github.com/Rani367/Zed-config)** / **[Neovim Config](https://github.com/Rani367/neovim-config)** / **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations.
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,c,cs,rust,lua&perline=10" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vim,git,linux&perline=3" />
-</p>
+- **[affected](https://github.com/Rani367/affected)** -- Run only the tests that matter. A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports Cargo, npm, Yarn, Go, Python, Maven, and Gradle. `Rust`
+- **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website, used by students and staff. `Next.js` `TypeScript` `Tailwind` `Postgres`
+- **[pAPI](https://github.com/Rani367/pAPI)** -- Free Perplexity AI API + MCP server to replace agents' search tools with Perplexity. `TypeScript` `Hono`
+- **[Zed Config](https://github.com/Rani367/Zed-config)** / **[Neovim Config](https://github.com/Rani367/neovim-config)** / **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations. `Lua` `Shell`
