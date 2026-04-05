@@ -16,8 +16,6 @@ I contribute to tools I use daily:
 |---|---|---|
 | **Zed** | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872) | Merged |
 | **Next.js** | [Fix TypeScript `noUncheckedSideEffectImports` for CSS imports](https://github.com/vercel/next.js/pull/88199) | Merged |
-| **VS Code** | [Fix singleton editors with 'Copy into New Window'](https://github.com/microsoft/vscode/pull/284685) | Open |
-| **shadcn/ui** | [Add CSS animations for calendar component](https://github.com/shadcn-ui/ui/pull/8907) | Open |
 | **Magic Portfolio** | [Upgrade to Next.js 16 and React 19.2](https://github.com/once-ui-system/magic-portfolio/pull/146) | Merged |
 
 ### Projects
