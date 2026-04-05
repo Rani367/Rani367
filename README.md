@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Rani</h1>
 <p align="center">
-  <b>High school student from Israel building things for the web</b>
 </p>
 <p align="center">
   <a href="https://rani.is-a.dev">Portfolio</a> ·
