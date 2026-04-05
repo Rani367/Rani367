@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Rani</h1>
-<p align="center">
-</p>
+<p align="center">Rust and Next.js developer</p>
 <p align="center">
   <a href="https://rani.is-a.dev">Portfolio</a> ·
   <a href="mailto:rani2011367@gmail.com">Email</a>
