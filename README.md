@@ -19,7 +19,6 @@ I contribute to tools I use daily:
 
 ### Projects
 
-- **[affected](https://github.com/Rani367/affected)** -- Run only the tests that matter. A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports Cargo, npm, Yarn, Go, Python, Maven, and Gradle. `Rust`
+- **[affected](https://github.com/Rani367/affected)** -- A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports Cargo, npm, Yarn, Go, Python, Maven, and Gradle. `Rust`
 - **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website, used by students and staff. `Next.js` `TypeScript` `Tailwind` `Postgres`
-- **[pAPI](https://github.com/Rani367/pAPI)** -- Free Perplexity AI API + MCP server to replace agents' search tools with Perplexity. `TypeScript` `Hono`
 - **[Zed Config](https://github.com/Rani367/Zed-config)** / **[Neovim Config](https://github.com/Rani367/neovim-config)** / **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations. `Lua` `Shell`
