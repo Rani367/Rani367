@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rani</h1>
+<h1 align="center">Hi, I'm Rani</h1>
 <p align="center">Rust, Next.js, and TypeScript developer</p>
 <p align="center">
   <a href="https://rani.is-a.dev">Portfolio</a> ·
