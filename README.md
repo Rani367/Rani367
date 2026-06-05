@@ -21,4 +21,4 @@ I contribute to tools I use daily:
 
 - **[affected](https://github.com/Rani367/affected)** -- A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports 13 different ecosystems(cargo, npm, bun, etc.). `Rust`
 - **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website, used by students and staff. `Next.js` `TypeScript` `Tailwind` `Postgres`
-- **[Zed Config](https://github.com/Rani367/Zed-config)** / **[Neovim Config](https://github.com/Rani367/neovim-config)** / **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations. `Lua` `Shell`
+- **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations. `Lua` `Shell`
