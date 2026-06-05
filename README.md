@@ -19,6 +19,9 @@ I contribute to tools I use daily:
 
 ### Projects
 
-- **[affected](https://github.com/Rani367/affected)** -- A standalone CLI that detects which packages in your monorepo are affected by git changes. Supports 13 different ecosystems(cargo, npm, bun, etc.). `Rust`
+- **[affected](https://github.com/Rani367/affected)** -- Language-agnostic CLI that finds which packages in your monorepo a git change affects, then runs tests, lints, or builds on only those. 13 ecosystems, no framework lock-in. `Rust`
+- **[ferro](https://github.com/Rani367/ferro)** -- A hobby AArch64 OS in Rust that boots to a real graphical desktop, with its own browser engine and DOOM. `Rust`
+- **[lo-agent](https://github.com/Rani367/lo-agent)** -- Local-first coding agent for Apple Silicon: detects your RAM, downloads a model, and runs fully offline. `Rust`
+- **[Armadillo](https://github.com/Rani367/Armadillo)** -- A macOS antivirus with five detection engines and zero system dependencies, all in Rust. `Rust`
+- **[singularity](https://github.com/Rani367/singularity)** -- Real-time gravitational-lensing black-hole game for the Playdate. `C`
 - **[Hativon](https://hativon.vercel.app)** -- My school's newspaper website, used by students and staff. `Next.js` `TypeScript` `Tailwind` `Postgres`
-- **[Dotfiles](https://github.com/Rani367/dotfiles)** -- My editor and system configurations. `Lua` `Shell`
