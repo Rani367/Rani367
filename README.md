@@ -20,6 +20,7 @@ I contribute to tools I use daily:
 
 ### Projects
 
+- **[Skarn](https://github.com/Rani367/Skarn)** -- A fast, OS-sandboxed MCP gateway in one Rust binary: aggregates MCP servers via Code Mode, compresses agent shell output 70-90%, and kernel-sandboxes every command. No Docker. `Rust`
 - **[affected](https://github.com/Rani367/affected)** -- Language-agnostic CLI that finds which packages in your monorepo a git change affects, then runs tests, lints, or builds on only those. 13 ecosystems, no framework lock-in. `Rust`
 - **[ferro](https://github.com/Rani367/ferro)** -- A hobby AArch64 OS in Rust that boots to a real graphical desktop, with its own browser engine and DOOM. `Rust`
 - **[lo-agent](https://github.com/Rani367/lo-agent)** -- Local-first coding agent for Apple Silicon: detects your RAM, downloads a model, and runs fully offline. `Rust`
