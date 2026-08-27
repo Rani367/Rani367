@@ -15,6 +15,7 @@ I contribute to tools I use daily:
 
 | Project     | PR                                                                                                                                     | Status |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Rust**    | [Don't list escaping bound regions in nested `for<...>` binders of E0308 notes](https://github.com/rust-lang/rust/pull/159232)         | Merged |
 | **Zed**     | [Speed up multi-cursor editing, with around 2x faster typing and a 700+ line change](https://github.com/zed-industries/zed/pull/58510) | Merged |
 | **Zed**     | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872)                                       | Merged |
 | **Next.js** | [Fix TypeScript `noUncheckedSideEffectImports` for CSS imports](https://github.com/vercel/next.js/pull/88199)                          | Merged |
