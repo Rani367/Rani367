@@ -1,42 +1,37 @@
+<h1 align="center">Hi, I'm Rani</h1>
+
 <p align="center">
-  <strong>Rust, Next.js, and TypeScript developer</strong>
+  Rust, Next.js, and TypeScript developer
 </p>
 
 <p align="center">
-  <a href="https://rani.is-a.dev">Portfolio</a> ·
-  <a href="mailto:rani2011367@gmail.com">Email</a>
+  <a href="https://rani.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-rani.is--a.dev-black?style=flat-square" alt="Portfolio"></a>
+  <a href="mailto:rani2011367@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square" alt="Email"></a>
 </p>
 
 ---
 
-### Open Source Contributions
+## Open Source Contributions
 
-Mostly editor and compiler internals, with a focus on performance and correctness.
+Editor and compiler internals, with a focus on performance and correctness.
 
-#### [Zed](https://github.com/zed-industries/zed)
+| Project | Contribution | What it does | Lang |
+| :--- | :--- | :--- | :---: |
+| **Zed** | [Skip multi-cursor selection broadcast when unshared](https://github.com/zed-industries/zed/pull/60605) | Removes an O(selections) per-keystroke remap that ran with zero collaborators | Rust |
+| **Zed** | [Speed up multi-cursor editing](https://github.com/zed-industries/zed/pull/58510) | Display map and selection fast paths, ~2x faster typing, 700+ lines | Rust |
+| **Zed** | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872) | Tells users searching for Basedpyright, Ruff, or Ty that they're built in | Rust |
+| **Rust** | [Fix escaping bound regions in nested `for<...>` binders](https://github.com/rust-lang/rust/pull/159232) | rustc printed invalid types like `for<'a> fn(for<'a> fn(&'a ()))` in E0308 notes | Rust |
+| **Next.js** | [Support `noUncheckedSideEffectImports` for CSS imports](https://github.com/vercel/next.js/pull/88199) | Adds missing module declarations for `.css`, `.sass`, and `.scss` | TS |
+| **magic-portfolio** | [Upgrade to Next.js 16 and React 19.2](https://github.com/once-ui-system/magic-portfolio/pull/146) | Framework and runtime upgrade for the template | TS |
 
-* [**Skip multi-cursor selection broadcast when unshared**](https://github.com/zed-industries/zed/pull/60605): removed an O(selections) per-keystroke remap that ran with zero collaborators.
-* [**Speed up multi-cursor editing**](https://github.com/zed-industries/zed/pull/58510): fast paths in the display map and selection resolution, ~2x faster typing, 700+ lines.
-* [**Add upsell banners for integrated extensions**](https://github.com/zed-industries/zed/pull/43872): tells users searching for Basedpyright, Ruff, or Ty that they're now built in.
+## Projects
 
-#### [Rust](https://github.com/rust-lang/rust)
-
-* [**Fix escaping bound regions in nested `for<...>` binders of E0308 notes**](https://github.com/rust-lang/rust/pull/159232): rustc printed invalid types like `for<'a> fn(for<'a> fn(&'a ()))` in type mismatch errors.
-
-#### [Next.js](https://github.com/vercel/next.js)
-
-* [**Support TypeScript `noUncheckedSideEffectImports` for CSS imports**](https://github.com/vercel/next.js/pull/88199): missing module declarations for `.css`, `.sass`, and `.scss`.
-
-#### Other
-
-* [**magic-portfolio**](https://github.com/once-ui-system/magic-portfolio/pull/146): upgraded to Next.js 16 and React 19.2.
-
-### Projects
-
-* [**Hativon**](https://hativon.vercel.app): my school's newspaper website. `Next.js`
-* [**Skarn**](https://github.com/Rani367/Skarn): OS-sandboxed MCP gateway in one binary. `Rust`
-* [**affected**](https://github.com/Rani367/affected): finds which monorepo packages a Git change affects. `Rust`
-* [**ferro**](https://github.com/Rani367/ferro): hobby AArch64 OS with a desktop, browser engine, and DOOM. `Rust`
-* [**lo-agent**](https://github.com/Rani367/lo-agent): offline coding agent for Apple Silicon. `Rust`
-* [**Armadillo**](https://github.com/Rani367/Armadillo): macOS antivirus with zero system dependencies. `Rust`
-* [**singularity**](https://github.com/Rani367/singularity): gravitational-lensing black-hole game for the Playdate. `C`
+| Project | Description | Lang |
+| :--- | :--- | :---: |
+| [**Hativon**](https://hativon.vercel.app) | My school's newspaper website | Next.js |
+| [**Skarn**](https://github.com/Rani367/Skarn) | OS-sandboxed MCP gateway in one binary | Rust |
+| [**affected**](https://github.com/Rani367/affected) | Finds which monorepo packages a Git change affects | Rust |
+| [**ferro**](https://github.com/Rani367/ferro) | Hobby AArch64 OS with a desktop, browser engine, and DOOM | Rust |
+| [**lo-agent**](https://github.com/Rani367/lo-agent) | Offline coding agent for Apple Silicon | Rust |
+| [**Armadillo**](https://github.com/Rani367/Armadillo) | macOS antivirus with zero system dependencies | Rust |
+| [**singularity**](https://github.com/Rani367/singularity) | Gravitational-lensing black-hole game for the Playdate | C |
