@@ -22,7 +22,6 @@ Editor and compiler internals, with a focus on performance and correctness.
 | **Zed** | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872) | Tells users searching for Basedpyright, Ruff, or Ty that they're built in | Rust |
 | **Rust** | [Fix escaping bound regions in nested `for<...>` binders](https://github.com/rust-lang/rust/pull/159232) | rustc printed invalid types like `for<'a> fn(for<'a> fn(&'a ()))` in E0308 notes | Rust |
 | **Next.js** | [Support `noUncheckedSideEffectImports` for CSS imports](https://github.com/vercel/next.js/pull/88199) | Adds missing module declarations for `.css`, `.sass`, and `.scss` | TS |
-| **magic-portfolio** | [Upgrade to Next.js 16 and React 19.2](https://github.com/once-ui-system/magic-portfolio/pull/146) | Framework and runtime upgrade for the template | TS |
 
 ## Projects
 
