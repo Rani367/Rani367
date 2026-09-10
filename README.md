@@ -15,7 +15,7 @@
 
 Editor and compiler internals, with a focus on performance and correctness.
 
-| Project | Contribution | What it does | Lang |
+| Project | Contribution | What it does | Stack |
 | :--- | :--- | :--- | :---: |
 | **Zed** | [Skip multi-cursor selection broadcast when unshared](https://github.com/zed-industries/zed/pull/60605) | Removes an O(selections) per-keystroke remap that ran with zero collaborators | Rust |
 | **Zed** | [Speed up multi-cursor editing](https://github.com/zed-industries/zed/pull/58510) | Display map and selection fast paths, ~2x faster typing, 700+ lines | Rust |
@@ -25,7 +25,7 @@ Editor and compiler internals, with a focus on performance and correctness.
 
 ## Projects
 
-| Project | Description | Lang |
+| Project | Description | Stack |
 | :--- | :--- | :---: |
 | [**Hativon**](https://hativon.vercel.app) | My school's newspaper website | Next.js |
 | [**Skarn**](https://github.com/Rani367/Skarn) | OS-sandboxed MCP gateway in one binary | Rust |
