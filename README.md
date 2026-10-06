@@ -17,9 +17,7 @@ Editor and compiler internals, with a focus on performance and correctness.
 
 | Project | Contribution | What it does | Stack |
 | :--- | :--- | :--- | :---: |
-| **Zed** | [Reuse tab point cursor state across calls](https://github.com/zed-industries/zed/pull/64409) | Avoids rebuilding tab-point cursor state on every call in the editor's hot path | Rust |
-| **Zed** | [Skip multi-cursor selection broadcast when unshared](https://github.com/zed-industries/zed/pull/60605) | Removes an O(selections) per-keystroke remap that ran with zero collaborators | Rust |
-| **Zed** | [Speed up multi-cursor editing](https://github.com/zed-industries/zed/pull/58510) | Display map and selection fast paths, ~2x faster typing, 700+ lines | Rust |
+| **Zed** | Multi-cursor editing performance ([#58510](https://github.com/zed-industries/zed/pull/58510), [#60605](https://github.com/zed-industries/zed/pull/60605), [#64409](https://github.com/zed-industries/zed/pull/64409)) | Display map and selection fast paths, ~2x faster typing, and no per-keystroke remap when unshared | Rust |
 | **Zed** | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872) | Tells users searching for Basedpyright, Ruff, or Ty that they're built in | Rust |
 | **Rust** | [Fix escaping bound regions in nested `for<...>` binders](https://github.com/rust-lang/rust/pull/159232) | rustc printed invalid types like `for<'a> fn(for<'a> fn(&'a ()))` in E0308 notes | Rust |
 | **Next.js** | [Support `noUncheckedSideEffectImports` for CSS imports](https://github.com/vercel/next.js/pull/88199) | Adds missing module declarations for `.css`, `.sass`, and `.scss` | TS |
