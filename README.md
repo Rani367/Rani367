@@ -17,6 +17,7 @@ Editor and compiler internals, with a focus on performance and correctness.
 
 | Project | Contribution | What it does | Stack |
 | :--- | :--- | :--- | :---: |
+| **Zed** | [Reuse tab point cursor state across calls](https://github.com/zed-industries/zed/pull/64409) | Avoids rebuilding tab-point cursor state on every call in the editor's hot path | Rust |
 | **Zed** | [Skip multi-cursor selection broadcast when unshared](https://github.com/zed-industries/zed/pull/60605) | Removes an O(selections) per-keystroke remap that ran with zero collaborators | Rust |
 | **Zed** | [Speed up multi-cursor editing](https://github.com/zed-industries/zed/pull/58510) | Display map and selection fast paths, ~2x faster typing, 700+ lines | Rust |
 | **Zed** | [Add upsell banners for integrated extensions](https://github.com/zed-industries/zed/pull/43872) | Tells users searching for Basedpyright, Ruff, or Ty that they're built in | Rust |
@@ -28,9 +29,11 @@ Editor and compiler internals, with a focus on performance and correctness.
 | Project | Description | Stack |
 | :--- | :--- | :---: |
 | [**Hativon**](https://hativon.vercel.app) | My school's newspaper website | Next.js |
+| [**Honeywood**](https://honeywood.vercel.app) | Co-op cozy farm-sitting game that becomes horror | Unity |
 | [**Skarn**](https://github.com/Rani367/Skarn) | OS-sandboxed MCP gateway in one binary | Rust |
 | [**affected**](https://github.com/Rani367/affected) | Finds which monorepo packages a Git change affects | Rust |
 | [**ferro**](https://github.com/Rani367/ferro) | Hobby AArch64 OS with a desktop, browser engine, and DOOM | Rust |
-| [**lo-agent**](https://github.com/Rani367/lo-agent) | Offline coding agent for Apple Silicon | Rust |
+| [**lo**](https://github.com/Rani367/lo) | Fully local voice agent in native Rust, no cloud or Python | Rust |
+| [**maple**](https://github.com/Rani367/maple) | Repo maps, architecture docs, and compact context packs for any codebase | Rust |
 | [**Armadillo**](https://github.com/Rani367/Armadillo) | macOS antivirus with zero system dependencies | Rust |
 | [**singularity**](https://github.com/Rani367/singularity) | Gravitational-lensing black-hole game for the Playdate | C |
