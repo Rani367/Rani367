@@ -28,6 +28,7 @@ Editor and compiler internals, with a focus on performance and correctness.
 | :--- | :--- | :---: |
 | [**Hativon**](https://hativon.vercel.app) | My school's newspaper website | Next.js |
 | [**Honeywood**](https://honeywood.vercel.app) | Co-op cozy farm-sitting game that becomes horror | Unity |
+| [**Satellite LoRa driver**](https://github.com/herzliya-space-laboratory/e22-lora-arduino) | Arduino driver for E22 LoRa radios on a satellite comms card | C++ |
 | [**Skarn**](https://github.com/Rani367/Skarn) | OS-sandboxed MCP gateway in one binary | Rust |
 | [**affected**](https://github.com/Rani367/affected) | Finds which monorepo packages a Git change affects | Rust |
 | [**ferro**](https://github.com/Rani367/ferro) | Hobby AArch64 OS with a desktop, browser engine, and DOOM | Rust |
